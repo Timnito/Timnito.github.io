@@ -77,7 +77,7 @@ body {
 .main-section {
   background-color: var(--first-color);
   background-image: var(--second-color);
-  height: auto;
+  height: 500px;
 }
 
 .carousel-item {
